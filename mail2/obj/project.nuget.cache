@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HyQh9nvf3minquHZ2jRGQu0N/Sv6M0iDi9kr1YGYjqSmzy9JZsKaYSrODDv6dxGlFLJY/fY5sgL1yq3ahWhC9g==",
+  "dgSpecHash": "Bj3i/ZbcRWf4mbDJyc7/OKBauMZeuHe5ojrvIecdXU5cqT4yNhqh4Vci/T2Kaf11BUyoCQ+3l7cDXyWo/FAg0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shogo\\source\\repos\\mail2\\mail2\\mail2.csproj",
+  "projectFilePath": "C:\\Users\\shogo\\source\\repos\\mail2^clone2\\mail2\\mail2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shogo\\.nuget\\packages\\mailkit\\2.9.0\\mailkit.2.9.0.nupkg.sha512",
     "C:\\Users\\shogo\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",

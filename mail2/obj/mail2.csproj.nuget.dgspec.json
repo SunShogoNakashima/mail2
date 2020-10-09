@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shogo\\source\\repos\\mail2\\mail2\\mail2.csproj": {}
+    "C:\\Users\\shogo\\source\\repos\\mail2^clone2\\mail2\\mail2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shogo\\source\\repos\\mail2\\mail2\\mail2.csproj": {
+    "C:\\Users\\shogo\\source\\repos\\mail2^clone2\\mail2\\mail2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shogo\\source\\repos\\mail2\\mail2\\mail2.csproj",
+        "projectUniqueName": "C:\\Users\\shogo\\source\\repos\\mail2^clone2\\mail2\\mail2.csproj",
         "projectName": "mail2",
-        "projectPath": "C:\\Users\\shogo\\source\\repos\\mail2\\mail2\\mail2.csproj",
+        "projectPath": "C:\\Users\\shogo\\source\\repos\\mail2^clone2\\mail2\\mail2.csproj",
         "packagesPath": "C:\\Users\\shogo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shogo\\source\\repos\\mail2\\mail2\\obj\\",
+        "outputPath": "C:\\Users\\shogo\\source\\repos\\mail2^clone2\\mail2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shogo\\AppData\\Roaming\\NuGet\\NuGet.Config",

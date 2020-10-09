@@ -15,8 +15,8 @@ namespace mail2
             var port = 465;
             var fromAdd = "shougorian3@gmail.com"; //送信元アドレス
             var toAdd = "shogo.nakashima.1109@gmail.com"; //送信先アドレス
-            var mailSubject = "エラー通知ﾃｽﾄ";
-            var mailText = "お疲れ様です。\r\nエラー通知のテストメールを送信いたしまします。";
+            var mailSubject = "エラー通知ﾃｽﾄ"; //メールタイトル
+            var mailText = "お疲れ様です。\r\nエラー通知のテストメールを送信いたしまします。"; //メール本文
 
             using (var smtp = new MailKit.Net.Smtp.SmtpClient())
             {
