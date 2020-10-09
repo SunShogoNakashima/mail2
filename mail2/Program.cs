@@ -13,7 +13,8 @@ namespace mail2
         {
             var host = "smtp.gmail.com";
             var port = 465;
-            var fromAdd = "shougorian3@gmail.com"; //送信元アドレス
+            var fromAdd = "windowsmailingtest@gmail.com"; //送信元アドレス
+            var fromAddPass = "Sun-0036"; //送信元アドレスパスワード
             var toAdd = "shogo.nakashima.1109@gmail.com"; //送信先アドレス
             var mailSubject = "エラー通知ﾃｽﾄ"; //メールタイトル
             var mailText = "お疲れ様です。\r\nエラー通知のテストメールを送信いたしまします。"; //メール本文
@@ -26,7 +27,7 @@ namespace mail2
                     //smtp.ServerCertificateValidationCallback = (s, c, h, e) => true;
                     smtp.Connect(host, port, MailKit.Security.SecureSocketOptions.Auto);
                     //認証設定
-                    smtp.Authenticate(fromAdd, "");
+                    smtp.Authenticate(fromAdd, fromAddPass);
 
                     //送信するメールを作成する
                     var mail = new MimeKit.MimeMessage();
