@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "HyQh9nvf3minquHZ2jRGQu0N/Sv6M0iDi9kr1YGYjqSmzy9JZsKaYSrODDv6dxGlFLJY/fY5sgL1yq3ahWhC9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shogo\\source\\repos\\mail2\\mail2\\mail2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shogo\\.nuget\\packages\\mailkit\\2.9.0\\mailkit.2.9.0.nupkg.sha512",
+    "C:\\Users\\shogo\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\shogo\\.nuget\\packages\\mimekit\\2.9.2\\mimekit.2.9.2.nupkg.sha512",
+    "C:\\Users\\shogo\\.nuget\\packages\\portable.bouncycastle\\1.8.5\\portable.bouncycastle.1.8.5.nupkg.sha512",
+    "C:\\Users\\shogo\\.nuget\\packages\\system.reflection.typeextensions\\4.4.0\\system.reflection.typeextensions.4.4.0.nupkg.sha512",
+    "C:\\Users\\shogo\\.nuget\\packages\\system.security.cryptography.cng\\4.7.0\\system.security.cryptography.cng.4.7.0.nupkg.sha512",
+    "C:\\Users\\shogo\\.nuget\\packages\\system.security.cryptography.pkcs\\4.7.0\\system.security.cryptography.pkcs.4.7.0.nupkg.sha512",
+    "C:\\Users\\shogo\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
