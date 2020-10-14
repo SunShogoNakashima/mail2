@@ -1,4 +1,4 @@
-﻿using MailKit.Net.Smtp;
+using MailKit.Net.Smtp;
 using MimeKit;
 using System;
 using System.Collections.Generic;
@@ -58,16 +58,5 @@ namespace mail2
             }
         }
 
-    }
-
-    class Info
-    {
-        public string host { get; set; }
-        public int port { get; set; }
-        public string fromAdd { get; set; }
-        public string fromAddPass { get; set; }
-        public string toAdd { get; set; }
-        public string mailSubject { get; set; }
-        public string mailText { get; set; }
     }
 }
